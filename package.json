@@ -1,0 +1,23 @@
+{
+  "name": "push",
+  "version": "0.0.0",
+  "description": "Push ====== Apple Push Notification Services client in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jackson Tian",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JacksonTian/push.git"
+  },
+  "keywords": [
+    "APNS",
+    "iOS",
+    "Apple"
+  ],
+  "bugs": {
+    "url": "https://github.com/JacksonTian/push/issues"
+  }
+}
